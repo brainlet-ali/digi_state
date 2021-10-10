@@ -15,20 +15,20 @@ activity.
 
 ## What it does
 
-The proposed solution is very simple on investors end. All they have to do is to scan a QR code to start investing in
-government verified real estate projects with confidence. The government will issue a QR code after verification for any
-project/unit/property that a real estate agent/developer requests. The real estate developers can use these QR code in
-their marketing materials or on premises.
+The proposed solution is very simple on investors' end. All they have to do is to scan a QR code to start investing in government verified real estate projects with confidence. The government will issue a QR code after verification for any project/unit/property which a real estate agent/developer requests for approval. The real estate developers then can use these QR codes in their marketing materials or on premises.
+
+
 
 ## How we built it
 
-This project is at ideation stage. An API needs to be build to consumed by dashboards and mobile apps. APIs/Backend will
-be built in Laravel (PHP), dashboards in React JS and mobile apps for Android/iOS in React Native. (see project media
-for data flow)
+This project is at ideation stage. An API needs to be build to be consumed by dashboards and mobile apps. APIs/Backend will be built in Laravel (PHP), dashboards in React JS and mobile apps for Android/iOS in React Native. (see project media for data flow)
+
+
 
 ## What we learned
 
-Critical thinking speaking session have helped to bring more clarity and refinement to solution model that is presented.
+Qarib Kazmi and Hania Zia talks helped to bring more clarity and refinement to solution model/UI that is being presented.
+
 
 ## What's next for Digi State
 
